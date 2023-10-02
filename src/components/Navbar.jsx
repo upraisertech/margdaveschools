@@ -9,7 +9,7 @@ const Navbar = () => {
     { name: "About", link: "#about" },
     { name: "Facilities", link: "#facilities" },
     { name: "News&Events", link: "#news" },
-    { name: "CONTACT", link: "#contact" },
+    { name: "Contact", link: "#contact" },
   ];
   useEffect(() => {
     window.addEventListener("scroll", () => {
