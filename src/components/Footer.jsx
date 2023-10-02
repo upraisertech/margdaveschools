@@ -45,8 +45,8 @@ const Footer = () => {
         </div>
       </div>
       <div className="flex md:flex-row flex-col md:text-center text-left items-start justify-between">
-        <div>Copyright © {currentYear} <span className="bg-gray-800 hover:text-cyan-600">Maregdave Best Legacy School</span>. All Rights reserved.</div>
-        <div>Powered by <a href="https://upraisertech.vercel.app" className="hover:bg-gray-800 text-cyan-600">UpraiserTech</a></div>
+        <div>Copyright © {currentYear} <span className="bg-gray-800 hover:text-blue-700">Maregdave Best Legacy School</span>. All Rights reserved.</div>
+        <div>Powered by <a href="https://upraisertech.vercel.app" className="hover:bg-gray-800 text-blue-700">UpraiserTech</a></div>
       </div>
     </div>
   );

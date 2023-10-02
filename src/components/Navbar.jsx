@@ -24,11 +24,11 @@ const Navbar = () => {
     >
       <div className="flex items-center justify-between">
         <div className="flex mx-5 md:mx-7 gap-x-4 items-center justify-center">
-          <img
+          {/* <img
             src={logo}
             alt=""
             className="w-[50px] h-[50px] object-cover bg-cyan-600 rounded-[50%]"
-          />
+          /> */}
           <div>
           <h4 className="text-2xl md:text-4xl uppercase font-bold">
             MB<span className="text-blue-700">LS</span> School
