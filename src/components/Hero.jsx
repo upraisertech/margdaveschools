@@ -1,7 +1,7 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
 import BackgroundSlider from "./common/BackgroundSlider";
-import heroImage1 from "../assets/images/download.jpg"; // Import your image correctly
+import heroImage1 from "../assets/images/download.png"; // Import your image correctly
 
 const Hero = () => {
 
@@ -16,7 +16,7 @@ const Hero = () => {
     <section id="home" className="relative">
       <BackgroundSlider images={images} interval={3000} />
 
-      <div className="absolute bottom-4 top-[7rem] md:top-[8rem] bg-black/60 mx-2 md:mx-4 p-3 text-white text-center items-center justify-center rounded-md md:w-[97%]">
+      <div className="absolute bottom-4 top-[7rem] md:top-[8rem] bg-black/80 mx-2 md:mx-4 p-3 text-white text-center items-center justify-center">
         <h4 className="text-4xl uppercase font-bold text-white">
           <h4 className="text-4xl uppercase font-bold">
             Mare<span className="text-blue-700">gdave </span>
