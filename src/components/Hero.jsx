@@ -29,7 +29,7 @@ const Hero = () => {
           <button className="bg-blue-700 mt-8 px-4 py-3 rounded-full">Contact Me</button>
         </a>
 
-        <div className="flex md:flex-row flex-col h-[40%] md:h-auto p-4 mx-5 my-7 gap-6 md:text-center text-left items-start justify-between border rounded-md overflow-y-auto">
+        <div className="flex md:flex-row flex-col h-[40%] md:h-auto md:w-[95%] lg:w-[80%] p-4 mx-auto my-7 gap-6 md:text-center text-left items-center justify-between border rounded-md overflow-y-auto">
           <div className="md:w-[30%]">
             <h2>Inspired Educators:</h2>
             <p>Providing individualized learning to strengthen each student’s abilities.</p>
