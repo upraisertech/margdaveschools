@@ -17,6 +17,7 @@ const Navbar = () => {
       window.scrollY > 0 ? setSticky(true) : setSticky(false);
     });
   }, []);
+  
   return (
     <nav
       className={`fixed w-full left-0 top-0 bg-black/60 z-[999] ${sticky ? "bg-black  text-[#FFFDD0]" : "text-white"

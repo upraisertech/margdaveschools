@@ -26,7 +26,7 @@ const Hero = () => {
         </h4>
         <p>TO GIVE EVERY CHILD EQUAL OPPORTUNITY TO EXCEL AND ATTAIN GRATER HEIGHT IN HIS / HER CHOSEN CAREER</p>
         <a href="#">
-          <button className="bg-blue-700 mt-8 px-4 py-3 rounded-full">Contact Me</button>
+          <button className="bg-blue-700 mt-8 px-4 py-3 rounded-full w-[118px]">Contact Me</button>
         </a>
 
         <div className="flex md:flex-row flex-col h-[40%] md:h-auto md:w-[95%] lg:w-[80%] p-4 mx-auto my-7 gap-6 md:text-center text-left items-center justify-between border rounded-md overflow-y-auto">

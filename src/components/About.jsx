@@ -34,7 +34,7 @@ const About = () => {
               <br />
               <br />
               <a>
-                <button className="cursor-pointer btn-primary"> See more</button>
+                <button className="cursor-pointer btn-primary w-[115px]"> See more</button>
               </a>
             </div>
           </div>
