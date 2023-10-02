@@ -5,9 +5,9 @@ const Navbar = () => {
   const [sticky, setSticky] = useState(false);
   const [open, setOpen] = useState(false);
   const menuLinks = [
-    { name: "HOME", link: "#home" },
-    { name: "ABOUT", link: "#about" },
-    { name: "SKILLS", link: "#skills" },
+    { name: "Home", link: "#home" },
+    { name: "About", link: "#about" },
+    { name: "Facilities", link: "#facilities" },
     { name: "News&Events", link: "#news" },
     { name: "CONTACT", link: "#contact" },
   ];
